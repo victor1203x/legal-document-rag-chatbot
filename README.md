@@ -1,4 +1,4 @@
-# 法律文件問答機器人 (Retrieval-Augmented Generation)
+# Legal Document RAG Chatbot (Retrieval-Augmented Generation)
 
 This project is a RAG (Retrieval-Augmented Generation) chatbot designed to answer legal questions based on the content of uploaded PDFs, such as laws, regulations, or internal manuals.
 
